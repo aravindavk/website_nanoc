@@ -1,3 +1,5 @@
 vendor
 node_modules
 content/stylesheet.css
+tmp
+output
